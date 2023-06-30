@@ -10,7 +10,7 @@ for word in words[1:]:
 print(repeater)
 
 
-# badass optimal example: 
+# optimal example: 
 from collections import Counter
 
 WORDS = ['this', 'is', 'an', 'elementary', 'test', 'example']
